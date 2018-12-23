@@ -2,7 +2,7 @@
 Simple Bookmarklet to export PDF of Doc
 
 Based on a Tweet from GSuite (https://twitter.com/gsuite/status/1076613401021952000),
-I thought I'd make somethign that was Actually user-friendly.
+I thought I'd make something that was Actually user-friendly.
 
 So I made a bookmarklet for it :D
 
